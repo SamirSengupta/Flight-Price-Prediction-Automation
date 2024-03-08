@@ -28,7 +28,7 @@ To run the Jupyter Notebook, you need:
 1. Clone this repository:
 
 ```
-git clone https://github.com/yourusername/fight-price-prediction-automation.git
+git clone https://github.com/SamirSengupta/fight-price-prediction-automation.git
 ```
 
 2. Navigate to the project directory:
@@ -57,9 +57,6 @@ pip install -r requirements.txt
 5. Compare the performance metrics and select the most suitable algorithm for predicting flight prices.
 6. Utilize the predictions for decision-making processes related to flight pricing.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
