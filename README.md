@@ -1,4 +1,3 @@
-```markdown
 # Fight Price Prediction Automation
 
 This Jupyter Notebook provides automation for predicting fight prices using data sourced from Kaggle. The notebook utilizes machine learning techniques to analyze historical data and make predictions on future fight prices.
@@ -65,4 +64,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Author
 
 This project is authored by [Samir Sengupta](https://neuralthread.cloud/samir).
-```
