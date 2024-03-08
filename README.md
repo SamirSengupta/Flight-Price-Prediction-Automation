@@ -19,7 +19,7 @@ This notebook aims to automate the process of predicting fight prices based on h
 
 To run the Jupyter Notebook, you need:
 
-- Python (version X.X.X)
+- Python (version 3.11.2)
 - Jupyter Notebook
 - Required Python libraries (specified in `requirements.txt`)
 
@@ -53,7 +53,6 @@ pip install -r requirements.txt
    - Random Forest
    - Decision Tree
    - Linear Regression
-   - (Add more algorithms if applicable)
 5. Compare the performance metrics and select the most suitable algorithm for predicting flight prices.
 6. Utilize the predictions for decision-making processes related to flight pricing.
 
